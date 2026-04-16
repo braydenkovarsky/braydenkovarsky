@@ -5,13 +5,13 @@
 
 ---
 
-### 🚀 Featured Repositories
+### 🔥 Passion Projects
 
 #### [DeviceLog: System Health](https://github.com/braydenkovarsky/DeviceLog-APP)
-> **Advanced Android Telemetry Tool** | Built in Kotlin to monitor real-time hardware diagnostics and network health via low-level system APIs.
+> **Advanced Android Telemetry Tool** | Engineered in Kotlin to provide real-time hardware diagnostics and network health tracking using low-level system APIs.
 
 #### [SubWatcher](https://github.com/braydenkovarsky/SubWatcher-APP)
-> **Subscription Management Ecosystem** | A centralized tracker featuring a 500+ service database, optimized for digital spend oversight and recurring cost automation.
+> **Subscription Management Ecosystem** | A centralized tracker featuring a 500+ service database, designed to optimize digital spend and automate recurring cost oversight.
 
 ---
 
@@ -30,7 +30,7 @@
 
 * **Infrastructure:** Specialized in Active Directory (GPO), OS deployment, and 99%+ uptime management.
 * **Security:** Proficient in IAM, encryption protocols, and network topology hardening.
-* **Automation:** Utilizing Python and Bash to optimize technical operations and organizational workflows.
+* **Automation:** Leveraging Python and Bash to optimize technical operations and organizational workflows.
 
 ---
 
@@ -43,6 +43,6 @@
 ### 📍 Connect
 * **Location:** Vaughan, Ontario
 * **Email:** [braydenkovarsky@gmail.com](mailto:braydenkovarsky@gmail.com)
-* **LinkedIn:** [linkedin.com/in/brayden-kovarsky-steingold](https://www.linkedin.com/in/brayden-kovarsky-steingold-7821202a2/)
+* **LinkedIn:** [View Profile](https://www.linkedin.com/in/brayden-kovarsky-steingold-7821202a2/)
 
 *"Solving complex challenges through secure, automated, and high-impact workflows."*
