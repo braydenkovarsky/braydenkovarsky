@@ -1,46 +1,55 @@
 # Welcome to my GitHub! 🚀
 ## I'm Brayden Kovarsky-Steingold
-**IT Help Desk & Technical Support Specialist | Cloud Infrastructure & Security**
+**IT Infrastructure Specialist | Tier II Technical Support | Software Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayden-kovarsky-steingold-7821202a2/)
 
 ---
 
 ### 🔥 Passion Projects
-*I build apps for fun to sharpen my troubleshooting skills and understand system architecture from the inside out.*
+*I build software for fun to bridge the gap between low-level system architecture and high-level user utility.*
 
 #### [DeviceLog: System Health](https://github.com/braydenkovarsky/DeviceLog-APP)
-> **Advanced Telemetry Tool** | Engineered in Kotlin to monitor real-time hardware diagnostics—helping me understand the telemetry data I use daily in IT support.
+> **Advanced System Telemetry Suite** | A high-performance Android utility engineered in **Kotlin**. It interfaces directly with low-level system APIs to provide real-time hardware diagnostics, thermal monitoring, and granular network health tracking.
 
 #### [SubWatcher](https://github.com/braydenkovarsky/SubWatcher-APP)
-> **Subscription Management Ecosystem** | A centralized tracker designed to optimize digital expenditure and automate recurring oversight.
+> **Digital Asset & Subscription Ecosystem** | A comprehensive management platform featuring an extensive database of 500+ global services. Built to optimize digital spend and automate recurring cost oversight.
 
 ---
 
-### 🛠️ Technical Ecosystem
+### 💻 Programming & Scripting Stack
+*A diverse toolkit used to automate infrastructure, build mobile tools, and develop immersive environments.*
 
-**Coding & Scripting** ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white)
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Enterprise Identity** | **Active Directory, Group Policy (GPO), AWS IAM, Windows/Linux Server Admin** |
-| **Networking & Routing** | **TCP/IP, DNS/DHCP, Cisco IOS, Aruba OS, VPN Tunneling, Wireless Site Config** |
-| **Security & Hardening** | **Aruba/Cisco Firewalls, Patch Management, EDR, Network Edge Security, SQLi/XSS Prevention** |
-| **Cloud & Virtualization** | **VMware, AWS (VPC, CloudWatch, EC2), Azure** |
-| **DevOps & Tools** | **Git/GitHub, Raspberry Pi Integration, Custom PC Builds, Hardware Diagnostics** |
+| Category | Languages & Engines | The "Why" |
+| :--- | :--- | :--- |
+| **Mobile Dev** | **Kotlin, Java, XML** | To architect high-performance Android applications and system utilities. |
+| **Automation** | **Python, Bash, PowerShell** | To create self-healing scripts and automate Tier 1/2 help desk workflows. |
+| **Game Dev** | **Unity, Lua, Godot** | To develop cross-platform interactive experiences and logic-driven environments. |
+| **Web & Data** | **HTML5, CSS3, SQL, JSON** | To design responsive front-ends and manage relational database structures. |
 
 ---
 
-### 📝 IT Support Profile
-**Honours Computer Systems Graduate** with 5+ years of experience delivering high-impact technical support and maintaining enterprise-grade infrastructure. I specialize in resolving complex hardware, software, and network challenges with a focus on **98% first-contact resolution.**
+### 🧠 Infrastructure Knowledge & Mastery
 
-* **User Support Mastery:** Expert in Tier 1/2 support, troubleshooting Windows/Linux environments, and managing user accounts via Active Directory (GPO).
-* **Infrastructure & Uptime:** Proven track record of maintaining 99%+ operational uptime and managing the full lifecycle of enterprise devices.
-* **Automation Mindset:** Leveraging Python and Bash to transform manual technical operations into automated, high-impact workflows.
+| Skill Domain | Tools & Technologies | How & Why I Learned It |
+| :--- | :--- | :--- |
+| **Cloud & Virtualization** | **AWS (VPC, EC2, CloudWatch), Azure, VMware ESXi** | **How:** Hands-on labs and AWS Academy Certification.<br>**Why:** To master high-availability environments and cloud scalability. |
+| **Network Engineering** | **Cisco IOS, Aruba OS, TCP/IP, DNS/DHCP, VLANs** | **How:** Configured 8-switch clusters and multi-segment networks in enterprise labs.<br>**Why:** To ensure 99%+ uptime and stable connectivity across business operations. |
+| **Cybersecurity** | **Aruba/Cisco Firewalls, EDR, VPN Tunneling, SQLi/XSS Prevention** | **How:** Specialized Honours coursework and real-world hardening.<br>**Why:** To proactively defend against network edge vulnerabilities and secure remote access. |
+| **Identity & Admin** | **Active Directory, GPO, AWS IAM, Win/Linux Server** | **How:** 5+ years of managing 30+ users and deploying OS-wide security policies.<br>**Why:** To implement zero-trust principles and maintain a secure access environment. |
+| **Hardware Mastery** | **Custom Architecture, Hardware Diagnostics** | **How:** Built 50+ custom high-performance machines and performed same-day repairs.<br>**Why:** To understand the physical layer of computing and ensure peak performance for power users. |
 
 ---
 
-### 🎓 Qualifications
+### 📝 Professional Profile: IT Support & Infrastructure
+**Honours Computer Systems Graduate** with a 5-year track record of resolving critical technical failures and maintaining high-availability enterprise environments.
+
+* **Strategic Support:** Consistently maintain a **98% first-contact resolution rate** by applying structured root-cause analysis and ITIL-aligned troubleshooting methodologies.
+* **The "Builder" Edge:** I bring a developer's perspective to IT, leveraging automation to replace manual tasks and hardening systems against modern vulnerabilities.
+
+---
+
+### 🎓 Education & Certifications
 * **Diploma (Honours), Computer Systems Technician** | Seneca College
 * **Cloud Security Foundations Certificate** | AWS Academy
 
@@ -49,6 +58,6 @@
 ### 📍 Let's Connect
 * **Email:** [braydenkovarsky@gmail.com](mailto:braydenkovarsky@gmail.com)
 * **LinkedIn:** [Reach out here](https://www.linkedin.com/in/brayden-kovarsky-steingold-7821202a2/)
-* **Location:** Vaughan, Ontario
+* **Location:** Vaughan, Ontario, Canada
 
 *"Solving complex challenges through secure, automated, and high-impact workflows."*
