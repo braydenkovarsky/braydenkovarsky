@@ -1,48 +1,50 @@
-# Brayden Kovarsky-Steingold 👋
-### IT Infrastructure Specialist | Security Enthusiast | Software Developer
+# Welcome to my GitHub! 🚀
+## I'm Brayden Kovarsky-Steingold
+**IT Infrastructure Specialist | Security Enthusiast | Software Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayden-kovarsky-steingold-7821202a2/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braydenkovarsky@gmail.com)
 
 ---
 
 ### 🔥 Passion Projects
 
 #### [DeviceLog: System Health](https://github.com/braydenkovarsky/DeviceLog-APP)
-> **Advanced Android Telemetry Tool** | Engineered in Kotlin to provide real-time hardware diagnostics and network health tracking using low-level system APIs.
+> **Advanced Android Telemetry Tool** | A high-performance utility engineered in Kotlin to monitor real-time hardware diagnostics and network health using low-level system APIs.
 
 #### [SubWatcher](https://github.com/braydenkovarsky/SubWatcher-APP)
-> **Subscription Management Ecosystem** | A centralized tracker featuring a 500+ service database, designed to optimize digital spend and automate recurring cost oversight.
+> **Subscription Management Ecosystem** | A centralized tracking solution featuring a database of 500+ services, designed to optimize digital expenditure and automate recurring cost oversight.
 
 ---
 
 ### 🛠️ Technical Ecosystem
 
-**Development & Web** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
-
-**Cloud & Virtualization** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=flat&logo=microsoft-azure&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat&logo=microsoft&logoColor=white)
-
-**Security & Networking** ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=white) **VLAN Segmentation • VPN Tunneling • EDR • Edge Hardening • SQLi/XSS Prevention**
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages & Web** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) |
+| **Cloud & Virtualization** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white) ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white) ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D4?logo=microsoft&logoColor=white) |
+| **Networking & Security** | ![Cisco](https://img.shields.io/badge/-Cisco-049fd9?logo=cisco&logoColor=white) **VLAN Segmentation • VPN Tunneling • EDR • Edge Hardening • SQLi/XSS Prevention** |
 
 ---
 
 ### 📝 Professional Profile
-**Honours Computer Systems Graduate** with 5+ years of experience delivering robust IT solutions and high-availability enterprise infrastructure.
+**Honours Computer Systems Graduate** with 5+ years of expertise in delivering enterprise-grade IT solutions and high-availability infrastructure.
 
-* **Infrastructure:** Specialized in Active Directory (GPO), OS deployment, and 99%+ uptime management.
-* **Security:** Proficient in IAM, encryption protocols, and network topology hardening.
-* **Automation:** Leveraging Python and Bash to optimize technical operations and organizational workflows.
+* **Infrastructure Mastery:** Specialized in Active Directory (GPO), full-lifecycle OS deployment, and maintaining 99%+ operational uptime.
+* **Security-First Mindset:** Proficient in IAM, encryption standards, and designing secure, hardened network topologies.
+* **Process Automation:** Leveraging Python and Bash to transform manual technical operations into automated, high-impact workflows.
 
 ---
 
-### 🎓 Education & Certifications
+### 🎓 Qualifications
 * **Diploma (Honours), Computer Systems Technician** | Seneca College
 * **Cloud Security Foundations Certificate** | AWS Academy
 
 ---
 
-### 📍 Connect
+### 📍 Let's Connect
+I'm always open to collaborating on innovative infrastructure projects or software solutions.
 * **Location:** Vaughan, Ontario
-* **Email:** [braydenkovarsky@gmail.com](mailto:braydenkovarsky@gmail.com)
-* **LinkedIn:** [View Profile](https://www.linkedin.com/in/brayden-kovarsky-steingold-7821202a2/)
+* **LinkedIn:** [Reach out here](https://www.linkedin.com/in/brayden-kovarsky-steingold-7821202a2/)
 
 *"Solving complex challenges through secure, automated, and high-impact workflows."*
