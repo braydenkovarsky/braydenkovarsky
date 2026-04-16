@@ -44,7 +44,9 @@
 
 ### 📍 Let's Connect
 I'm always open to collaborating on innovative infrastructure projects or software solutions.
-* **Location:** Vaughan, Ontario
+
+* **Email:** [braydenkovarsky@gmail.com](mailto:braydenkovarsky@gmail.com)
 * **LinkedIn:** [Reach out here](https://www.linkedin.com/in/brayden-kovarsky-steingold-7821202a2/)
+* **Location:** Vaughan, Ontario
 
 *"Solving complex challenges through secure, automated, and high-impact workflows."*
