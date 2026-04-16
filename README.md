@@ -1,6 +1,6 @@
 # Welcome to my GitHub! 🚀
 ## I'm Brayden Kovarsky-Steingold
-**IT Infrastructure Specialist | Tier II Technical Support | Software Developer**
+**IT Help Desk & Technical Support Specialist | Cloud Infrastructure & Security**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayden-kovarsky-steingold-7821202a2/)
 
