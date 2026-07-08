@@ -4,7 +4,7 @@
 
 **IT Support Specialist & Systems Administrator**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brayden%20Kovarsky--Steingold-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayden-kovarsky-steingold-7821202a2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brayden%20Kovarsky--Steingold-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayden-kovarsky-steingold-%E2%80%8E-7821202a2/)
 [![Email](https://img.shields.io/badge/Email-braydenkovarsky%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braydenkovarsky@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/braydenkovarsky)
 
@@ -116,10 +116,9 @@ I enjoy combining traditional IT support with automation, cloud tools, and secur
 ### 📍 Let's Connect
 
 * **Email:** [braydenkovarsky@gmail.com](mailto:braydenkovarsky@gmail.com)
-* **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/brayden-kovarsky-steingold-7821202a2/)
+* **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/brayden-kovarsky-steingold-%E2%80%8E-7821202a2/)
 * **Location:** Vaughan, Ontario, Canada
 
 ---
 
 *"Solving complex challenges through secure, automated, and high-impact workflows."*
-```
