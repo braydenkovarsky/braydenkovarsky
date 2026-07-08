@@ -2,7 +2,7 @@
 
 ## I'm Brayden Kovarsky-Steingold
 
-**IT Help Desk & Technical Support Specialist | Cloud Infrastructure & Security**
+**IT Support Specialist & Systems Administrator**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brayden%20Kovarsky--Steingold-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayden-kovarsky-steingold-7821202a2/)
 [![Email](https://img.shields.io/badge/Email-braydenkovarsky%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braydenkovarsky@gmail.com)
@@ -14,7 +14,7 @@
 
 I am an **Honours Computer Systems Technician graduate** with **5+ years of hands-on IT support, systems administration, cloud infrastructure, and cybersecurity experience**.
 
-My background includes supporting **1,000+ residential and business clients**, leading technical support operations, managing Windows devices and user accounts, administering Active Directory and Group Policy, deploying secure networks, and maintaining high-availability environments with **99%+ uptime**.
+My background includes supporting **1,000+ residential and business clients**, leading technical support operations, managing Windows devices and user accounts, administering Active Directory and Group Policy, deploying secure networks, and maintaining high-availability environments.
 
 I enjoy combining traditional IT support with automation, cloud tools, and security-first thinking to build reliable, scalable, and efficient systems.
 
