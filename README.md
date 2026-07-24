@@ -4,7 +4,7 @@
 
 * IT Technical Support Specialist 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brayden%20Kovarsky--Steingold-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayden-‎kovarsky-7821202a2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brayden%20Kovarsky---0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayden-‎kovarsky-7821202a2/)
 [![Email](https://img.shields.io/badge/Email-braydenkovarsky%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braydenkovarsky@gmail.com)
 ---
 
