@@ -1,6 +1,6 @@
 # Welcome to my GitHub! 🚀
 
-## I'm Brayden Kovarsky-Steingold
+## I'm Brayden Kovarsky
 
 * IT Technical Support Specialist 
 
